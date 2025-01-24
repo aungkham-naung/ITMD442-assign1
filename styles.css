@@ -1,0 +1,14 @@
+.img-container {
+  display: flex;
+  justify-content: center;
+}
+
+.texts p {
+  margin-left: 2.7rem;
+}
+
+.icons {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 1.5rem;
+}
